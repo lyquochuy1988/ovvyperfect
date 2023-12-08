@@ -653,6 +653,22 @@ footer ul li a {
     font-weight: 600;
 }
 
+
+.wrap-ixi-screen {
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 26px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+img.ixi-screen-recorder {
+    width: 200px;
+    max-width: 100%;
+}
+
+
 .wrap-az-screen {
     margin-top: 50px;
 }

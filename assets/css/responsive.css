@@ -49,6 +49,10 @@
         grid-template-rows: repeat(5,min-content);
     }
 
+    .wrap-ixi-screen {
+        flex-direction: column;
+    }
+
     .wrap-mobizen-screen {
         margin-top: 40px;
         display: flex;
